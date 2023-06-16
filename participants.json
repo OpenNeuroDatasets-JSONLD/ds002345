@@ -1,13 +1,7 @@
 {
   "age": {
     "Description": "age of the participant",
-    "Units": "years",
-    "Annotations": {
-      "IsAbout": {
-        "TermURL": "nb:Age",
-        "Label": ""
-      }
-    }
+    "Units": "years"
   },
   "comprehension": {
     "Description": "behavioral comprehension score ranging from 0 to 1 for corresponding task (if applicable)"
